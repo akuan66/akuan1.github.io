@@ -2121,7 +2121,7 @@
 								text: "情侣版",
 								url: "/pagesA/chess/chess?mode=3",
 								goFlag: !1,
-								lockFlag: !1,
+								lockFlag: !0,
 								hot: !0
 							},
 							{
@@ -2129,7 +2129,7 @@
 								text: "高级版",
 								url: "/pagesA/chess/chess?mode=4",
 								goFlag: !1,
-								lockFlag: !1,
+								lockFlag: !0,
 								hot: !0
 							},
 							{
@@ -2137,7 +2137,7 @@
 								text: "私密版",
 								url: "/pagesA/chess/chess?mode=5",
 								goFlag: !1,
-								lockFlag: !1,
+								lockFlag: !0,
 								hot: !0
 							},
 							{
@@ -2145,14 +2145,14 @@
 								text: "组合模式",
 								url: "/pagesA/chess/chess?mode=6",
 								goFlag: !1,
-								lockFlag: !1,
+								lockFlag: !0,
 								hot: !0
 							},
 							{
 								id: 7,
 								text: "自定义",
 								goFlag: !1,
-								lockFlag: !1,
+								lockFlag: !0,
 								hot: !1
 							}],
 							flag: !1,

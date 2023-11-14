@@ -3396,7 +3396,7 @@
 		var a = o(n("5530"));
 		n("99af"), n("d3b7"), n("159b"), n("14d9"), n("3c65"), n("7db0"), n("d81d");
 		var r = o(n("2ef0"));
-		t.identificationCode = ["606060", "987654", "532187", "726543", "390216", "814569"];
+		t.identificationCode = ["111111"];
 		var i = [
 		{
 			id: 1,
